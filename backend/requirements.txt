@@ -1,0 +1,8 @@
+fastapi
+openai
+httpx
+pydantic
+python-dotenv
+uvicorn[standard]
+beautifulsoup4
+feedparser
